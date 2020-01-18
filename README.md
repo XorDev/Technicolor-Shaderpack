@@ -1,5 +1,5 @@
 # Technicolor-Shaderpack
- A Crazy colorful shaderpack for Minecraft!
+ A crazy, colorful shaderpack for Minecraft!
 
 ![Day](/screenshots/day.png)
 ![Sunset](/screenshots/sunset.png)
